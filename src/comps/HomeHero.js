@@ -6,10 +6,10 @@ const HomeHero = () => {
     return (
         <div className="container">
             <div className="text">
-                <h2>Hello i'm</h2>
+                <h2>Hello, i'm</h2>
                 <h1 className='h1blue'>GIAN <br></br>
                     GALLO,</h1>
-                <p>a Multimedia Designer that aims to create authentic and engaging visual experiences that connect with audiences on multiple levels.</p>
+                <h3 className='h3Home'>a Multimedia Designer that aims to create authentic and engaging visual experiences that connect with audiences on multiple levels.</h3>
                 <Button />
             </div>
             <div className="imageGian">
